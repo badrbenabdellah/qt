@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/resources"/>
+    <qresource prefix="/">
+        <file>assets/fst-1024x383.png</file>
+        <file>assets/logo-uae-1024x297.png</file>
+        <file>assets/logoMEN-Sport-fr.png</file>
+        <file>assets/casquette-etudiants.png</file>
+        <file>assets/eleve.png</file>
+        <file>assets/responsable-des-ressources-humaines.png</file>
+        <file>assets/objectif.png</file>
+        <file>assets/temps-detude.png</file>
+        <file>assets/capacites.png</file>
+        <file>assets/bras-robotique.png</file>
+        <file>assets/electricite.png</file>
+        <file>assets/geo.png</file>
+        <file>assets/portable.png</file>
+        <file>assets/attention.png</file>
+    </qresource>
+</RCC>
